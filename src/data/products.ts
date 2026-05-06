@@ -41,7 +41,7 @@ const products: Array<Product> = [
     image: 'https://i.ibb.co/Kc5PFs6h/image.png',
     shortDescription: 'Este echipată standard cu un scaun reglabil + bancheta. În partea frontala există o punte spațioasă, care va mulțumi cu siguranță pasionații de plajă.',
     description: 'A fost proiectata pentru a naviga pe apele interioare și pe apele maritime de coastă. QX557 este o combinație de barca cu punte deschisă și cabină. Cabina este situată sub consola principala si este suficient de incapatoare pentru trei persoane.',
-    price: 16800,
+    price: 1500,
     category: 'barci',
     categoryLabel: 'Bărci',
     specifications: [
@@ -60,7 +60,7 @@ const products: Array<Product> = [
     image: 'https://i.ibb.co/Xfst3PZ2/image.png',
     shortDescription: 'Barcă gonflabilă robustă cu podea rigidă, ușor de transportat și depozitat. Ideală pentru aventuri pe apă.',
     description: 'Black Sea 510 este o barcă de înaltă calitate, fabricată din material Hypalon rezistent la UV și uzură. Podeaua rigidă din aluminiu asigură stabilitate și performanță superioară. Ușor de asamblat și transportat, perfectă pentru cei care iubesc aventura.',
-    price: 1500,
+    price: 16800,
     category: 'barci',
     categoryLabel: 'Bărci',
     specifications: [
