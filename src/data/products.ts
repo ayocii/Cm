@@ -177,7 +177,7 @@ const products: Array<Product> = [
   {
     id: 9,
     name: 'Jet-ski Ultra 160LX-X',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80',
+    image: 'https://i.ibb.co/Psb4kXcr/image.png',
     shortDescription: 'Sea-Doo Spark 90 CP, cel mai ușor jet-ski de pe piață. Compact, agil și perfect pentru distracție.',
     description: 'Experimentați fiorul uneia dintre cele mai puternice nave personale de apă din industrie. Model complet reproiectat, Ultra 160 oferă performanță ridicată şi tehnologie de ultimă generație. Platformă emblematică, cu finisaje premium şi control superior pe apă.',
     price: 12800,
