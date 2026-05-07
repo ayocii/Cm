@@ -79,6 +79,9 @@ function Header() {
             <Link to="/?category=jetski" className="text-white hover:text-yellow-300 px-4 py-2 rounded font-medium transition-colors text-sm">
               Jet-ski
             </Link>
+            <Link to="/catalog" className="text-white hover:text-yellow-300 px-4 py-2 rounded font-medium transition-colors text-sm">
+              Catalog
+            </Link>
             <a href="#contact" style={{ backgroundColor: '#c8a84b', color: '#0a2342' }} className="ml-3 px-4 py-2 rounded font-bold text-sm hover:opacity-90 transition-opacity">
               Contact
             </a>
@@ -106,6 +109,7 @@ function Header() {
             <Link to="/?category=barci" className="text-white hover:text-yellow-300 px-4 py-2 font-medium text-sm block" onClick={() => setMenuOpen(false)}>Bărci</Link>
             <Link to="/?category=motoare" className="text-white hover:text-yellow-300 px-4 py-2 font-medium text-sm block" onClick={() => setMenuOpen(false)}>Motoare Nautice</Link>
             <Link to="/?category=jetski" className="text-white hover:text-yellow-300 px-4 py-2 font-medium text-sm block" onClick={() => setMenuOpen(false)}>Jet-ski</Link>
+            <Link to="/catalog" className="text-white hover:text-yellow-300 px-4 py-2 font-medium text-sm block" onClick={() => setMenuOpen(false)}>Catalog</Link>
             <a href="#contact" style={{ color: '#c8a84b' }} className="px-4 py-2 font-bold text-sm block" onClick={() => setMenuOpen(false)}>Contact</a>
           </div>
         )}
