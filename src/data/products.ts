@@ -137,7 +137,7 @@ const products: Array<Product> = [
   {
     id: 7,
     name: 'Motor Honda BF4',
-    image: 'https://images.unsplash.com/photo-1544551763-77ef2d0cfc6c?w=800&q=80',
+    image: 'https://i.ibb.co/dsgZ2dJF/Motor-de-barca-Honda-BF4-SHNU-LHNU-4-CP-comanda-manuala-2-jpg.jpg',
     shortDescription: 'Motor Honda BF4 cu tehnologie Lean Burn. Performanță superioară și economie de combustibil de până la 14%.',
     description: 'Motor OHV cu un cilindru, 2 valve. La turatie maxima 5000-6000 rpm, greutate 163 kg, putere motor kW/CP 4,4 / 6 la 6000 rpm.',
     price: 28500,
@@ -157,7 +157,7 @@ const products: Array<Product> = [
   {
     id: 8,
     name: 'Jet-ski Ultra 310LX-S',
-    image: 'https://images.unsplash.com/photo-1530870110042-98b2cb110834?w=800&q=80',
+    image: 'https://i.ibb.co/jPcYRzS6/image.png',
     shortDescription: 'Jet-ski Ultra 310LX-S, 125 CP. Distractiv, ușor de manevrat, perfect pentru recreere nautică.',
     description: 'Experimentați fiorul uneia dintre cele mai puternice nave personale de apă din industrie. Model complet reproiectat, Ultra 310 oferă performanță ridicată şi tehnologie de ultimă generație. Platformă emblematică, cu finisaje premium şi control superior pe apă.',
     price: 20799,
